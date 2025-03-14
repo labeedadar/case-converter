@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    margin: 20px auto;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+textarea {
+    width: 50%;
+    height: 200px;
+    resize: none;
+    border-radius: 10px;
+}
+
+button {
+    margin: 2px;
+    padding: 10px;
+    border-radius: 1px;
+    border: none;
+    font-size: 16px;
+    color: rgb(233, 113, 113);
+    background-color: rgb(182, 235, 235);
+    font-weight: bold;
+}
